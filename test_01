@@ -1,10 +1,11 @@
-a = '121212'
-b = ' 121212'
-c = ' 1212' 
+a = "121212"
+b = " 121212"
+c = " 1212"
+e = a + b + c
 
 d = a + b + c
-print (d)
-print ('hello world')
-print ('hello world #2')
-print ('hello world #3')
+print(d)
+print("hello world")
+print("hello world #2")
+print("hello world #3")
 print(d + a)
